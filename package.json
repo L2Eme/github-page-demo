@@ -1,5 +1,5 @@
 {
-  "name": "github-actions-demo",
+  "name": "github-page-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,7 +10,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://meteor1993.github.io/github-actions-demo",
+  "homepage": "https://L2Eme.github.io/github-page-demo",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
