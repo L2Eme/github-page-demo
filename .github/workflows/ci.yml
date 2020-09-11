@@ -16,7 +16,7 @@ jobs:
     - name: Build
       run: npm run-script build
     - name: Deploy
-      uses: JamesIves/github-pages-deploy-action#54066045208a389f6e16e9030494962f8afb4dfc
+      uses: JamesIves/github-pages-deploy-action@3.5.9
       with: 
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         BRANCH: gh-pages
